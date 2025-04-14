@@ -1,6 +1,6 @@
-🧵 Weavyrn 
+🧵 UWeavyrn 
 
-Weavyrn is a simple AI assistant run with HTML and python using OpenRouter to connect with Llama 4 Maverick AI model that answers your questions using custom documents and chat history. It can not access the internet.
+This version of Weavyrn is a simple AI assistant run with HTML and python using OpenRouter to connect with Llama 4 Maverick AI model that answers your questions using custom documents and chat history. It can not access the internet.
 
 📦 Features
 Load your own .txt or .pdf files
